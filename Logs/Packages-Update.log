@@ -41,3 +41,16 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Sat Nov  2 18:52:51 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.connect.share@1.0.5-preview
+  com.unity.learn.iet-framework@0.2.0-preview.1
+  com.unity.probuilder@4.1.0
+  com.unity.progrids@3.0.3-preview.4
+The following packages were updated:
+  com.unity.package-manager-ui from version 2.0.7 to 2.0.8

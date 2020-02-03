@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Space VR/Scenes/main.unity
+- path: Assets/FPS/Scenes/MainScene.unity
   isLoaded: 1
   isActive: 1
